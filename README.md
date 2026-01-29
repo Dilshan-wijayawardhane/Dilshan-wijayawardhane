@@ -3,7 +3,7 @@
 - 👀 I’m interested in "Programming, Web Development, and Game Development*"
 - 🌱 I’m currently learning "advanced Python, C#, and Unity game development"
 - 💞️ I’m looking to collaborate on "educational projects, games, and open-source software"
-- 📫 How to reach me: [Email](dilshanwijawardhana@gmail.com) | [LinkedIn](www.linkedin.com/in/dilshan-wijayawardane-526b12282)
+- 📫 How to reach me: [Email](https://dilshanwijawardhana@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dilshan-wijayawardane-526b12282)
 
 ---
 
