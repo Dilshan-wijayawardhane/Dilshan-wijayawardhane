@@ -9,8 +9,8 @@
 
  🛠 Skills
 - Languages: Python, C, C#, C++, Java, HTML, CSS, JavaScript  
-- Tools & Platforms: Unity, GitHub, MySQL, Visual Studio  
-- Projects: Weather Web App, Library Management System, Traffic Safety Game
+- Tools & Platforms: Unity, GitHub, MySQL, Visual Studio,NetBeans,  
+- Projects: Weather Web App, Library Management System , Banking System , Traffic Safety Game
 
 ---
 
@@ -19,6 +19,10 @@
  Weather Web App
 A simple web app to check weather using HTML, CSS, and JavaScript.  
 [GitHub Repo](https://github.com/Dilshan-wijayawardhane/weather-app) | [Live Demo](https://dilshan-wijayawardhane.github.io/weather-app/)
+
+Java Banking System
+Java-based banking system with GUI, supporting deposits, withdrawals, transfers, and file-based account storage.  
+[GitHub Repo](https://github.com/Dilshan-wijayawardhane/java-banking-system)
 
  Java Library Management System
 Console-based library system using Java and MySQL with DAO pattern.  
