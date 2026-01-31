@@ -8,8 +8,23 @@
 ---
 
  🛠 Skills
-- Languages: Python, C, C#, C++, Java, HTML, CSS, JavaScript  
-- Tools & Platforms: Unity, GitHub, MySQL, Visual Studio,NetBeans,  
+### 🖥 Languages
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-language-blue?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠 Tools & Platforms
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+
 - Projects: Weather Web App, Library Management System , Banking System , Traffic Safety Game
 
 ---
