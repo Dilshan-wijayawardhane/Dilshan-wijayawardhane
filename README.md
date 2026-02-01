@@ -1,54 +1,98 @@
- 👋 Hi, I’m Dilshan Wijayawardhane (@dilshan)
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Dilshan Wijayawardhane</h1>
+<h3 align="center">💻 Software Developer | 🎮 Game Developer | 🌐 Web Developer</h3>
 
-- 👀 I’m interested in "Programming, Web Development, and Game Development*"
-- 🌱 I’m currently learning "advanced Python, C#, and Unity game development"
-- 💞️ I’m looking to collaborate on "educational projects, games, and open-source software"
-- 📫 How to reach me: [Email](https://dilshanwijawardhana@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dilshan-wijayawardane-526b12282)
-
----
-
- 🛠 Skills
-### 🖥 Languages
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-language-blue?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🛠 Tools & Platforms
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visual-studio&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-
-- Projects: Weather Web App, Library Management System , Banking System , Traffic Safety Game
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
- 📂 Featured Projects
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dilshan-wijayawardhane&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
- Weather Web App
-A simple web app to check weather using HTML, CSS, and JavaScript.  
-[GitHub Repo](https://github.com/Dilshan-wijayawardhane/weather-app) | [Live Demo](https://dilshan-wijayawardhane.github.io/weather-app/)
+---
 
-Java Banking System
-Java-based banking system with GUI, supporting deposits, withdrawals, transfers, and file-based account storage.  
-[GitHub Repo](https://github.com/Dilshan-wijayawardhane/java-banking-system)
+## 👨‍💻 About Me
 
- Java Library Management System
-Console-based library system using Java and MySQL with DAO pattern.  
-[GitHub Repo](https://github.com/Dilshan-wijayawardhane/library-management-system)
+- 🎓 Passionate Software Developer
+- 🔭 Interested in Web, Game & App Development
+- 🌱 Learning Advanced Python, C# & Unity
+- 🤝 Open to Collaboration
+- 📫 Email: **dilshanwijawardhane@gmail.com**
 
- Traffic Safety Game
-Unity-based educational game teaching road rules and safety.  
-[GitHub Repo](https://github.com/Dilshan-wijayawardhane/traffic-safety-game)
+---
 
+## 🛠️ Tech Stack
 
-<!---
-Dilshan-wijayawardhane/Dilshan-wijayawardhane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,html,css,js" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,git,github,mysql,visualstudio,netbeans" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🌤 Weather App | Web-based weather app | [Repo](https://github.com/Dilshan-wijayawardhane/weather-app) |
+| 🏦 Banking System | Java GUI banking system | [Repo](https://github.com/Dilshan-wijayawardhane/java-banking-system) |
+| 📚 Library System | Java + MySQL system | [Repo](https://github.com/Dilshan-wijayawardhane/library-management-system) |
+| 🚦 Traffic Game | Unity safety game | [Repo](https://github.com/Dilshan-wijayawardhane/traffic-safety-game) |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilshan-wijayawardhane&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan-wijayawardhane&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan-wijayawardhane&theme=darkhub&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🌟 Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dilshan-wijayawardane-526b12282">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:dilshanwijawardhane@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+⭐ _“Code. Learn. Improve. Repeat.”_
