@@ -78,11 +78,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dilshan-wijayawardane-526b12282">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io" alt="LinkedIn" />
 </a>
 
 <a href="mailto:dilshanwijawardhane@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+ <img src="https://img.shields.io" alt="Gmail" />
 </a>
 </p>
 
