@@ -56,11 +56,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilshan-wijayawardhane&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilshan-wijayawardhane&show_icons=true&theme=radicall" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan-wijayawardhane&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan-wijayawardhane&layout=compact&theme=radicall" />
 </p>
 
 ---
