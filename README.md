@@ -1,12 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">
-  Hi 👋, I'm Dilshan Wijayawardhane
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Dilshan Wijayawardhane</h1>
 <h3 align="center">💻 Software Developer | 🎮 Game Developer | 🌐 Web Developer</h3>
 
 <!-- Typing Animation -->
