@@ -39,32 +39,16 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🌤 Weather App | Web-based weather app | [Repo](https://github.com/Dilshan-wijayawardhane/weather-app) |
+| 🌤 Weather App | Web-based weather application | [Repo](https://github.com/Dilshan-wijayawardhane/weather-app) |
 | 🏦 Banking System | Java GUI banking system | [Repo](https://github.com/Dilshan-wijayawardhane/java-banking-system) |
 | 📚 Library System | Java + MySQL system | [Repo](https://github.com/Dilshan-wijayawardhane/library-management-system) |
-| 🚦 Traffic Game | Unity safety game | [Repo](https://github.com/Dilshan-wijayawardhane/traffic-safety-game) |
+| 🚦 Traffic Safety Game | Unity educational game | [Repo](https://github.com/Dilshan-wijayawardhane/traffic-safety-game) |
+| ❌⭕ Tic-Tac-Toe (Python) | Command-line Tic-Tac-Toe game | [Repo](https://github.com/Dilshan-wijayawardhane/NoughtsAndCrosses-Python) |
+| 🔐 Caesar Cipher | Python encryption/decryption tool | [Repo](https://github.com/Dilshan-wijayawardhane/caesar-cipher-python) |
+
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilshan-wijayawardhane&show_icons=true&theme=radicall" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan-wijayawardhane&layout=compact&theme=radicall" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan-wijayawardhane&theme=darkhub&no-frame=true&row=1" />
-</p>
-
----
 
 ## 🌟 Motivation
 
@@ -85,6 +69,7 @@
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
+
 ---
 
 ⭐ _“Code. Learn. Improve. Repeat.”_
