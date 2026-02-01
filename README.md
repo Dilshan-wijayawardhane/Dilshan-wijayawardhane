@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things;Passionate+about+building+practical+applications+and+learning+modern+technologies." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
