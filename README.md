@@ -4,16 +4,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F0909&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things" />
 </p>
-
----
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dilshan-wijayawardhane&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
