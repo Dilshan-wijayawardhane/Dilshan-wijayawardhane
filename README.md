@@ -1,10 +1,17 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Dilshan Wijayawardhane</h1>
+<h1 align="center">
+  Hi 👋, I'm Dilshan Wijayawardhane
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <h3 align="center">💻 Software Developer | 🎮 Game Developer | 🌐 Web Developer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%23+Developer;Unity+Game+Developer;Always+Learning+New+Things;Passionate+about+building+practical+applications+and+learning+modern+technologies." />
 </p>
 
 ---
@@ -16,6 +23,7 @@
 - 🌱 Learning Advanced Python, C# & Unity
 - 🤝 Open to Collaboration
 - 📫 Email: **dilshanwijawardhane@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/dilshan-wijayawardane-526b12282
 
 ---
 
@@ -71,5 +79,14 @@
 </p>
 
 ---
+## ⭐ Goals
 
-⭐ _“Code. Learn. Improve. Repeat.”_
+- ✅ Build strong software engineering skills
+- ✅ Contribute to open-source projects
+- ✅ Develop professional-level applications
+- ✅ Grow as a full-stack and game developer
+
+---
+
+Thank you for visiting my profile! 😊  
+Feel free to explore my repositories and connect with me.
