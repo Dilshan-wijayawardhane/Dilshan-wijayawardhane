@@ -31,7 +31,7 @@
 ### 🧰 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=unity,git,github,mysql,visualstudio,netbeans,eclipse" />
+<img src="https://skillicons.dev/icons?i=unity,git,github,mysql,visualstudio,netbeans" />
 </p>
 
 ---
