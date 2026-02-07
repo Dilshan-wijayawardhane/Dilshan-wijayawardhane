@@ -41,7 +41,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | 🌤 Weather App | Web-based weather application | [Repo](https://github.com/Dilshan-wijayawardhane/weather-app) |
-| 🏦 Banking System | Java GUI banking system | [Repo](https://github.com/Dilshan-wijayawardhane/java-banking-system) |
+| 🏦 Banking System | Java GUI banking system | [Repo](https://github.com/Dilshan-wijayawardhane/Java-based-Banking-Management-System) |
 | 📚 Library System | Java + MySQL system | [Repo](https://github.com/Dilshan-wijayawardhane/library-management-system) |
 | 🚦 Traffic Safety Game | Unity educational game | [Repo](https://github.com/Dilshan-wijayawardhane/traffic-safety-game) |
 | ❌⭕ Tic-Tac-Toe (Python) | Command-line Tic-Tac-Toe game | [Repo](https://github.com/Dilshan-wijayawardhane/NoughtsAndCrosses-Python) |
