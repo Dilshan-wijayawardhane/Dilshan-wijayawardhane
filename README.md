@@ -101,12 +101,12 @@ I'm passionate about continuously learning modern technologies and building prac
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| 🤖 AI Language Learning Companion | AI-powered language learning platform with voice interaction, grammar feedback, and conversation tracking | Python, Gemini API, Streamlit, SQLite |
-| 🎯 Interview IQ | AI-powered interview preparation platform with coding challenges and resume analysis | JavaScript |
-| 🏫 Synergy Hub | Full-stack campus management platform with Web, Mobile and Admin Panel | Flutter, PHP, MySQL, REST APIs |
+| 🤖 AI Language Learning Companion | AI-powered language learning platform with voice interaction, grammar feedback, and conversation tracking | Python, Gemini API, Streamlit, SQLite |[Repo](https://github.com/Dilshan-wijayawardhane/ai-language-tutor)
+| 🎯 Interview IQ | AI-powered interview preparation platform with coding challenges and resume analysis | JavaScript |[Repo](https://github.com/Dilshan-wijayawardhane/interview_iq)
+| 🏫 Synergy Hub | Full-stack campus management platform with Web, Mobile and Admin Panel | Flutter, PHP, MySQL, REST APIs |[Repo](https://github.com/Dilshan-wijayawardhane/5CS024-Collaborative-Development)
 | 🌦️ Weather Application | Weather platform with API integration and database caching | HTML, CSS, JavaScript, PHP, MySQL |[Repo](https://github.com/Dilshan-wijayawardhane/weather-app) |
-| 🏦 Banking Management System | Java banking system implementing OOP concepts | Java |
-| 📚 Library Management System | Java & MySQL library management application | Java, JDBC, MySQL |
+| 🏦 Banking Management System | Java banking system implementing OOP concepts | Java |[Repo](https://github.com/Dilshan-wijayawardhane/Java-based-Banking-Management-System)
+| 📚 Library Management System | Java & MySQL library management application | Java, JDBC, MySQL |[Repo](https://github.com/Dilshan-wijayawardhane/Library-Management-System)
 
 ---
 
