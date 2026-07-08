@@ -108,17 +108,6 @@ I'm passionate about continuously learning modern technologies and building prac
 | 🏦 Banking Management System | Java banking system implementing OOP concepts | Java |[Repo](https://github.com/Dilshan-wijayawardhane/Java-based-Banking-Management-System)
 | 📚 Library Management System | Java & MySQL library management application | Java, JDBC, MySQL |[Repo](https://github.com/Dilshan-wijayawardhane/Library-Management-System)
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dilshan-wijayawardhane&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan-wijayawardhane&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
